@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/add_team"
+        android:title="@string/add_menu_item_text"
+        android:icon="@drawable/add"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/leaderboards"
+        android:title="@string/leaderboards_menu_item_text"
+        android:icon="@drawable/trophy"
+        app:showAsAction="ifRoom"/>
+</menu>

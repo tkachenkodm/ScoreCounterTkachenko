@@ -1,0 +1,42 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="md_color_button_text">@color/solid_black</item>
+    </style>
+
+    <style name="TeamNameInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/text_input_outline_color</item>
+        <item name="colorControlActivated">@color/solid_black</item>
+        <item name="helperText">@string/text_input_helper_text</item>
+        <item name="helperTextTextColor">@color/solid_black</item>
+        <item name="android:theme">@style/TeamNameInputStyle</item>
+        <item name="errorEnabled">true</item>
+        <item name="counterEnabled">true</item>
+        <item name="counterMaxLength">16</item>
+    </style>
+
+    <style name="TeamNameInputStyle">
+        <item name="colorPrimary">@color/solid_black</item>
+    </style>
+
+    <style name="OutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/outlined_button_color</item>
+        <item name="android:textColor">@color/outlined_button_color</item>
+        <item name="rippleColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="ScoreTextViewStyle">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/score_zero</item>
+        <item name="android:textSize">@dimen/score_counter_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

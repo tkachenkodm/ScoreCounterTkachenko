@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/team_list_item_default_margin"
+    android:layout_marginEnd="@dimen/team_list_item_default_margin"
+    android:layout_marginBottom="@dimen/team_list_item_margin_bottom"
+    android:background="@drawable/round_corners">
+
+    <TextView
+        android:id="@+id/tv_winnerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|center"
+        android:padding="@dimen/team_list_item_text_padding"
+        android:text="@string/team_name_placeholder"
+        android:textColor="@color/solid_black"
+        android:textSize="@dimen/team_list_item_text_size" />
+
+    <TextView
+        android:id="@+id/tv_winnerScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|center"
+        android:padding="@dimen/team_list_item_text_padding"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/solid_black"
+        android:textSize="@dimen/team_list_item_text_size" />
+
+</FrameLayout>

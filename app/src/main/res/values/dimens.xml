@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_padding">25dp</dimen>
+    <dimen name="dialog_width">350dp</dimen>
+    <dimen name="dialog_title_text_size">40sp</dimen>
+    <dimen name="color_slider_height">36dp</dimen>
+    <dimen name="color_slider_margin">15dp</dimen>
+    <dimen name="list_padding">15dp</dimen>
+    <dimen name="score_counter_text_size">60sp</dimen>
+    <dimen name="team_name_text_size">40sp</dimen>
+    <dimen name="timer_text_size">50sp</dimen>
+    <dimen name="score_hint_padding">12dp</dimen>
+    <dimen name="team_list_item_default_margin">15dp</dimen>
+    <dimen name="team_list_item_margin_bottom">10dp</dimen>
+    <dimen name="team_list_item_text_padding">10dp</dimen>
+    <dimen name="team_list_item_text_size">24sp</dimen>
+    <dimen name="team_list_item_corner_radius">5dp</dimen>
+    <dimen name="start_button_margin">15dp</dimen>
+    <dimen name="start_button_text_size">24sp</dimen>
+    <dimen name="start_button_corner_radius">10dp</dimen>
+    <dimen name="winner_text_size">40sp</dimen>
+    <dimen name="divider_text_text_size">30sp</dimen>
+</resources>

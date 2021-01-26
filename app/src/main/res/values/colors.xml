@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BFBFBF</color>
+    <color name="colorPrimaryDark">#808080</color>
+    <color name="colorAccent">#404040</color>
+
+    <color name="solid_black">#000</color>
+    <color name="solid_red">#F00</color>
+    <color name="solid_white">#FFF</color>
+    <color name="light_grey">#E0E0E0</color>
+    <color name="beige">#CCBEB8</color>
+    <color name="coral">#FF5050</color>
+
+    <array name="slider_colors">
+        <item>#F44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#2196F3</item>
+        <item>#009688</item>
+        <item>#FF9800</item>
+        <item>#795548</item>
+        <item>#9E9E9B</item>
+        <item>#607D8B</item>
+    </array>
+</resources>

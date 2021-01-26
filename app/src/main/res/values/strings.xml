@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="text_input_helper_text">Team name</string>
+    <string name="create_team_button_text">Create</string>
+    <string name="add_team_text">Add team</string>
+    <string name="team_name_placeholder">Team name</string>
+    <string name="timer_placeholder">Tap to start</string>
+    <string name="draw_placeholder">Draw</string>
+    <string name="leaderboards_title">Leaderboards</string>
+    <string name="cancel_game">Cancel game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="teams_already_created">You already created two teams</string>
+    <string name="game_not_started">Game has not started yet</string>
+    <string name="result_draw">Match resulted in draw</string>
+    <string name="result_victory">%s wins</string>
+    <string name="share_victory">%1$s won with a score of %2$d</string>
+    <string name="team_placeholder_name">PlaceholderTeamName</string>
+    <string name="create_game_button_text">Create game</string>
+    <string name="score_zero">0</string>
+    <string name="share_menu_item_text">Share</string>
+    <string name="leaderboards_menu_item_text">Leaderboards</string>
+    <string name="add_menu_item_text">Add</string>
+    <string name="cancel_game_menu_item_text">Cancel game</string>
+    <string name="clear_menu_item_text">Clear</string>
+    <string name="no_name_error">Enter team name</string>
+    <string name="tap_to_increment">Tap to increment</string>
+    <string name="create_new_game_button_text">Create new game</string>
+    <string name="or_placeholder">Or</string>
+    <string name="visit_leaderboards_button_text">Visit leaderboards</string>
+    <string name="winner_screen_title">Results</string>
+    <string name="score_screen_title">Match</string>
+</resources>
